@@ -1,0 +1,11 @@
+.header a{
+    text-decoration: none;
+    margin-left: 15px;
+    padding: 3px 5px;
+}
+.header a:hover{
+background-color: palegoldenrod;
+}
+.active{
+    background-color: aquamarine;
+}
